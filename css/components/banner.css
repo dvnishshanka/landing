@@ -1,0 +1,27 @@
+.banner {
+  background-image: url('../../images/background.png');
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+  margin: 0px 0px;
+}
+
+.banner > .container {
+  color: white;
+  margin: auto auto;
+}
+
+.banner p {
+  color: rgba(237, 229, 229, 0.8);
+  font-size: 22px;
+}
+
+.banner a {
+  display: inline-block;
+  margin-top: 5px;
+  text-decoration: none;
+  padding: 16px 36px;
+  border-radius: 25px;
+  background-color: #1EDD88;
+  color: white;
+}
